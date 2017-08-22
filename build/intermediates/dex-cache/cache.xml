@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.1_09e50797b62aa73394c8b1c642a795e76db80ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RENT\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.1_0cef9375bf8cf8de277f9d658d8e3cdf9c627ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.1_ff9e0d1919babfe578bca47d9ccab09bd04dc4b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\io.realm\realm-android-library\3.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="700f8f1135982ef49cb91121a76490565f069553">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\io.realm-realm-android-library-3.5.0_d7b02a40da613b9699a983f73063a7349eb4ffba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RENT\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_30ae946338cb263b4f06121cbffc85d16abb4e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.2.0_4881cb61889f9496f679fbb21a5d6561353e4d1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.1_4b878364e27148ecdad0fd73add135885f4311dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.1_137f075287e8734d27c349d49dad3700b22adf4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.1_65e5544c3a93c6aadc627b1f5ea10c65c1f435a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RENT\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.5.0\1e4b144dd28b139ae890ce2868979b12e1f2d7c7\realm-annotations-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e4b144dd28b139ae890ce2868979b12e1f2d7c7">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\realm-annotations-3.5.0_82eca23738d4528bf5bfa8744a2980c5605872ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.1_1a60ff78b3c0f1b9d1098a4ad749c5b138bf75f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.1_64f3bbe61d0caff8fb69cd4fe6ec82179353bfed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.8.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.8.1_b4e1145f2aaf7859d1f32f9587649b784981f272.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.2.0_9ebdb15ff55a43b7d2a08b5d1bdacc9f5b7fae79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-11.2.0_133b65e6be3f7e02aa56824033dbab3e94342a33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.1_3788750060ce86b80d5fd0d1fa5aea4e59b17d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.getkeepsafe.relinker-relinker-1.2.2_b1a1b085c550f60d316a03a4f3aa16315ec25561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.1_6e8c4090e9aed9d9383d117173a43cc0da07e6f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.1_0d065f2ca51494aa5ce4ee14a729256ea4f1e5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.1_be0bac1d92530deb73fa437a69e4b12dd4e9c9a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.2.0_f11a1d5ca218ee2f341fc9a6d427a82bc69ed799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\exploded-aar\com.android.support\design\26.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="C:\TaskOne1-master\TaskOne1-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.1_6319952e5a23a68b23b19e9acd90f684633620db.jar" />
+    </item>
+
+</items>
